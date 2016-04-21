@@ -1,0 +1,8 @@
+bin/
+build/
+*.class
+*.tmp
+#Ignore Eclipse project files (comment out if you want these in git)
+.settings/
+.project
+.classpath
